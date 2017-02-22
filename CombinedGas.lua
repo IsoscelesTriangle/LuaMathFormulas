@@ -1,3 +1,5 @@
+print("Use 'f' in case of missing value.")
+print("----------------")
 io.write("Initial Volume: ")
 local v_i = io.read()
 io.write("Initial Temperature (K): ")
